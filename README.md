@@ -1,2 +1,2 @@
 # ProjectI
-Bài thực hành hàng tuần projectI
+Giao diện quản lý các bài thực hành JAVA projectI
