@@ -10,7 +10,7 @@ public class JManage extends javax.swing.JFrame implements ActionListener {
 
     public JManage() {
         initComponents();
-        btn11.addActionListener(this);     //bắt sự kiện của nút
+        btn11.addActionListener(this);     
         btn12.addActionListener(this);
         btn13.addActionListener(this);
         btn14.addActionListener(this);
