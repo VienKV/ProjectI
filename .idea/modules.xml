@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/weekly practice.iml" filepath="$PROJECT_DIR$/weekly practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI_WeeklyPratice.iml" filepath="$PROJECT_DIR$/UI_WeeklyPratice.iml" />
     </modules>
   </component>
 </project>
